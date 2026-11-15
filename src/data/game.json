@@ -1,0 +1,1 @@
+{"clock":{"startHour":16,"dayLengthSeconds":240,"sunrise":6,"sunset":18},"player":{"walkSpeed":5,"runSpeed":8.5,"jumpSpeed":7,"energyDrain":20,"energyRecovery":13,"spawn":[-5,2,5]},"economy":{"startingPila":250},"world":{"halfWidth":65,"halfDepth":47},"carSpawn":[0,1,6]}
